@@ -1,8 +1,8 @@
 <h1 align="center">Fatima Aziz</h1>
 
 <p align="center">
-💻 Passionate about building web applications <br>
-🚀 Exploring software development & problem solving
+Passionate about building web applications <br>
+Exploring software development & problem solving
 </p>
 
 ---
