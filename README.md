@@ -24,8 +24,6 @@ Exploring software development & problem solving
 ![Learning](https://skillicons.dev/icons?i=javascript,spring)
 
 ---
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimaaziz27&show_icons=true&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark)
 ---
 
