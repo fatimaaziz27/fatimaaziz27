@@ -15,14 +15,14 @@ Exploring software development & problem solving
 
 ---
 
-## Technologies & Tools
+<h2 align="center">Technologies & Tools</h2>
 
-### Languages
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css" />
 </p>
 
-### Learning Next
+<h3 align="center">Learning Next</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,spring" />
 </p>
