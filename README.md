@@ -24,9 +24,11 @@ Exploring software development & problem solving
 ![Learning](https://skillicons.dev/icons?i=javascript,spring)
 
 ---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark&hide_border=true"/>
 </p>
+
 ---
 
 ## Connect with Me
