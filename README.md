@@ -25,12 +25,6 @@ Exploring software development & problem solving
 
 ---
 
-## GitHub Stats
-
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimaaziz27&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fatimaaziz27&theme=radical)
-
 ---
 
 ## Connect with Me
