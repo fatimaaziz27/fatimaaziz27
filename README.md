@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fatima Aziz</h1>
 
-<!--
-**fatimaaziz27/fatimaaziz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Passionate about building web applications <br>
+🚀 Exploring software development & problem solving
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 💻 I enjoy building web apps  
+- 📚 Currently learning and improving my skills  
+- 🎯 Goal: Become a strong full-stack developer  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css)
+
+### 🚀 Learning Next
+![Learning](https://skillicons.dev/icons?i=javascript,spring)
+
+---
+
+## 📊 GitHub Stats
+
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimaaziz27&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fatimaaziz27&theme=radical)
+
+---
+
+## 🔥 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatimaaziz27&theme=github-dark)
+
+---
+
+## 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
