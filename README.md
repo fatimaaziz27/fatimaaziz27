@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css)
