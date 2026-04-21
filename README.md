@@ -25,9 +25,10 @@ Exploring software development & problem solving
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark&hide_border=true"
+    https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark/>
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark)
+![GitHub Streak]()
 ---
 
 ## Connect with Me
