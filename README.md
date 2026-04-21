@@ -1,6 +1,6 @@
-<h1 align="center">Fatima Aziz</h1>
+<h1 align="left">Fatima Aziz</h1>
 
-<p align="center">
+<p align="left">
 Passionate about building web applications <br>
 Exploring software development & problem solving
 </p>
