@@ -18,12 +18,13 @@ Exploring software development & problem solving
 ## Technologies & Tools
 
 ### Languages
-<p align="center">![Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css)
+![Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css)
 
 ### Learning Next
 ![Learning](https://skillicons.dev/icons?i=javascript,spring)
 
 ---
+<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark)
 ---
 
