@@ -32,10 +32,3 @@ Exploring software development & problem solving
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark&hide_border=true"/>
 </p>
-
----
-
-## Connect with Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:fatimaaziz250907@gmail.com)
-
