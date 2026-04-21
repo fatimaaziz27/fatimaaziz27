@@ -7,25 +7,25 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 💻 I enjoy building web apps  
-- 📚 Currently learning and improving my skills  
-- 🎯 Goal: Become a strong full-stack developer  
+- I enjoy building web apps  
+- Currently learning and improving my skills  
+- Goal: Become a strong full-stack developer  
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages
+### Languages
 ![Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css)
 
-### 🚀 Learning Next
+### Learning Next
 ![Learning](https://skillicons.dev/icons?i=javascript,spring)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimaaziz27&show_icons=true&theme=radical)
 
@@ -33,13 +33,13 @@
 
 ---
 
-## 🔥 Activity Graph
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatimaaziz27&theme=github-dark)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
