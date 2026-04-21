@@ -18,10 +18,14 @@ Exploring software development & problem solving
 ## Technologies & Tools
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css" />
+</p>
 
 ### Learning Next
-![Learning](https://skillicons.dev/icons?i=javascript,spring)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,spring" />
+</p>
 
 ---
 
