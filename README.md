@@ -33,13 +33,7 @@
 
 ---
 
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatimaaziz27&theme=github-dark)
-
----
-
 ## Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:fatimaaziz250907@gmail.com)
+
