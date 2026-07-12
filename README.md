@@ -33,10 +33,3 @@ Exploring software development & problem solving
   <img src="https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimaaziz27&layout=compact&theme=tokyonight" />
-</p>
