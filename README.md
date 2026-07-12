@@ -1,17 +1,17 @@
 <h1 align="left">Fatima Aziz</h1>
 
 <p align="left">
-Passionate about building web applications <br>
-Exploring software development & problem solving
+Interested in web development and software engineering <br>
+Exploring frontend, backend, and modern technologies 
 </p>
 
 ---
 
 ## About Me
 
-- I enjoy building web apps  
-- Currently learning and improving my skills  
-- Goal: Become a strong full-stack developer  
+- Building meaningful projects with code
+- Expanding my programming skills
+- Growing towards full-stack development
 
 ---
 
