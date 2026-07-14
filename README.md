@@ -32,14 +32,3 @@ Exploring frontend, backend, and modern technologies
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fatimaaziz27&theme=github-dark&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimaaziz27&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaaziz27&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaaziz27&layout=compact&theme=tokyonight" />
-</p>
