@@ -19,7 +19,7 @@ Exploring frontend, backend, and modern technologies
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,git,postman,c" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,postman,c" />
 </p>
 
 <h3 align="center">Learning Next</h3>
